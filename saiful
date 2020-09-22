@@ -15,6 +15,21 @@ http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://iptv.kitv.live:1935/live/Shari/MTV-P/15.m3u8
 #EXTINF:-1 group-title="BANGLA ENT." tvg-logo="https://dl.dropbox.com/s/2jqhua6a0wrtgz5/ntv_bd.png",NTV [BD]
 http://iptv.kitv.live:1935/live/Shari/MTV-P/9.m3u8
+#EXTINF:-1 group-title="BANGLA ENT.,GTV 2
+http://103.214.202.218:8081/live/gazi-bd/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA ENT.,GTV 3
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA ENT.,GTV 4
+http://45.249.187.238:8081/hls/live5.m3u8
+#EXTINF:-1 group-title="BANGLA ENT.,GTV 5
+http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA ENT.,GTV 6
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+#EXTINF:-1 group-title="BANGLA ENT.,Star Jalsha HDx
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+#EXTINF:-1 group-title="BANGLA ENT.,Star Jalsha HDxx
+http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
+
 #EXTINF:-1 group-title="BANGLA ENT." tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png",RTV HD [BD]
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="BANGLA ENT." tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png",BOISHAKHI TV [BD]
