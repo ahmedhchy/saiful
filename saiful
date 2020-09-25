@@ -29,6 +29,103 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #EXTINF:-1 group-title="BANGLA ENT.,Star Jalsha HDxx
 http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
+#EXTINF:-1 group-title="BANGLA ENT.,GTV 7
+http://103.205.133.44:1935/live/Gtv/chunklist_w955963918.m3u8
+
+#EXTINF:-1 group-title="ZEE",ZEE TV HD
+http://three.somee.com/web.php?e.m3u8&c=zeetvhd&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ANDTV HD
+http://three.somee.com/web.php?e.m3u8&c=andtvhd&q=v1a1
+#EXTINF:-1 group-title="ZEE",,AND TV
+http://three.somee.com/web.php?e.m3u8&c=andtvsd&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ZEE ANMOL
+http://three.somee.com/web.php?e.m3u8&c=zeeanmol&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ZEE ANMOL CINEMA
+http://three.somee.com/web.php?e.m3u8&c=zanmolcnm&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ZEE CINEMA HD
+http://three.somee.com/web.php?e.m3u8&c=zcinemahd&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ZEE BIOSKOP
+http://three.somee.com/web.php?e.m3u8&c=bioskopidn&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ZEE ACTION
+http://three.somee.com/web.php?e.m3u8&c=action&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ZEE BOLLYWOOD
+http://three.somee.com/web.php?e.m3u8&c=classic&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ZEE NEWS
+http://three.somee.com/web.php?e.m3u8&c=zeenews&q=v1a1
+#EXTINF:-1 group-title="ZEE",,COVID 19
+http://three.somee.com/web.php?e.m3u8&c=covid19&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ZING
+http://three.somee.com/web.php?e.m3u8&c=zing&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ZING USA
+http://three.somee.com/web.php?e.m3u8&c=zingusa&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ZEE HINDUSTAN
+http://three.somee.com/web.php?e.m3u8&c=hindustan&q=v1a1
+#EXTINF:-1 group-title="ZEE",,BIG MAGIC
+http://three.somee.com/web.php?e.m3u8&c=bigmagic&q=v1a1
+#EXTINF:-1 group-title="ZEE",,BIG GANGA
+http://three.somee.com/web.php?e.m3u8&c=bigganga&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ZEE 24 GHANTA
+http://three.somee.com/web.php?e.m3u8&c=24ghanta&q=v1a1
+
+#EXTINF:-1 group-title="ZEE",,ZEE CINEMA UK
+http://three.somee.com/web.php?e.m3u8&c=cinemauk
+#EXTINF:-1 group-title="ZEE",,ZEE CINEMA USA
+http://three.somee.com/web.php?e.m3u8&c=cinemausa
+#EXTINF:-1 group-title="ZEE",,ZEE YUVA
+http://three.somee.com/web.php?e.m3u8e.m3u8&c=out/v1/8cb6a17f49784fda88939f24b083af45/
+#EXTINF:-1 group-title="ZEE",,ZEE KIDS
+http://three.somee.com/web.php?e.m3u8&c=out/v1/9b05285c38c54549a5afd04473bdd65c/&q=v1a1
+#EXTINF:-1 group-title="ZEE",,ZEE TV
+out/v1/ea6fe7c79c6f494792e1ee846b4a5259/
+
+#EXTINF:-1 group-title="ZEE",,ZEE ETC
+http://three.somee.com/web.php?e.m3u8&c=etc
+#EXTINF:-1 group-title="ZEE",,ZEE CAFE
+http://three.somee.com/web.php?e.m3u8&c=zeecafesd
+#EXTINF:-1 group-title="ZEE",,ZEE CAFE HD
+http://three.somee.com/web.php?e.m3u8&c=zeecafehd&q=v1a1
+#EXTINF:-1 group-title="ZEE",,AND FLIX
+http://three.somee.com/web.php?e.m3u8&c=andflix
+#EXTINF:-1 group-title="ZEE",,AND FLIX HD
+http://three.somee.com/web.php?e.m3u8&c=andflixhd
+#EXTINF:-1 group-title="ZEE",,AND PRIVE
+http://three.somee.com/web.php?e.m3u8&c=andprivehd
+#EXTINF:-1 group-title="ZEE",,ZEE NEWS MP CG
+http://three.somee.com/web.php?e.m3u8&c=newsmpcg
+#EXTINF:-1 group-title="ZEE",,ZEE NEWS UP UK
+http://three.somee.com/web.php?e.m3u8&c=zeenewsupuk
+
+#EXTINF:-1 group-title="ZEE",,ZEE BANGLA HD
+http://three.somee.com/web.php?e.m3u8&c=zeebanglahd
+
+#EXTINF:-1 group-title="ZEE",,ZEE CINEMALU
+http://three.somee.com/web.php?e.m3u8&c=zcinemalusd
+#EXTINF:-1 group-title="ZEE",,ZEE BANGLA CINEMA
+http://three.somee.com/web.php?e.m3u8&c=zbanglacnm
+#EXTINF:-1 group-title="ZEE",,ZEE BISKOPE
+http://three.somee.com/web.php?e.m3u8&c=zbiskope
+
+#EXTINF:-1 group-title="ZEE",,9X JHAKAAS
+http://three.somee.com/web.php?e.m3u8&c=out/v1/7c652edb67ba4fcba361632f4b88f5f0/&q=v1a1
+#EXTINF:-1 group-title="ZEE",,AND EXPLORE HD
+out/v1/525714a3beef4b6a8eac1ca96ffd8f88/&q=v1a1
+#EXTINF:-1 group-title="ZEE",,9X JALWA
+out/v1/b7afb3da97a74d14b3b07b93fd5f48cc/&q=v1a1
+#EXTINF:-1 group-title="ZEE",,9X TASHAN
+out/v1/03022bcf25704dc4a204caad37d256e2/&q=v1a1
+#EXTINF:-1 group-title="ZEE",,9XM
+http://three.somee.com/web.php?e.m3u8&c=out/v1/716855b8206b4d20a05850628a90feca/&q=v1a1
+#EXTINF:-1 group-title="ZEE",,AAJTAK
+http://three.somee.com/web.php?c=out/v1/9bef4425a4cd4bd7acf3242a3156162d/&s.m3u8
+
+#EXTINF:-1 group-title="ZEE",,BOOGLE BOLLYWOOD
+http://three.somee.com/web.php?c=out/v1/581a1234e00a444db4e6aae80e505872/&e.m3u8&I=3
+
+#EXTINF:-1 group-title="ZEE",,DD NEWS
+http://three.somee.com/web.php?c=ddnews&e.m3u8
+
+#EXTINF:-1 group-title="ZEE",,DD NATIONAL HD
+out/v1/061be0ece7a849939ac2d9031f8fc532/&e.m3u8&I=2
 
 #EXTINF:-1 group-title="BANGLA ENT." tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png",RTV HD [BD]
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8?@amarnettv.live
