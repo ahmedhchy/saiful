@@ -991,7 +991,7 @@ http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.strea
 http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.imgur.com/YLd5f9j.jpg",Swamiji TV
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png",IPL LIVE 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png",IPL LIVE 2x
 http://103.205.133.44:1935/live/Gtv/playlist.m3u8
 
 
@@ -1003,7 +1003,8 @@ http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mon
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 5
 http://212.47.252.54/hls/stream.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 3
+http://103.205.133.44:1935/live/Gtv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/U8XrjmP.png",TITAS SPORTS [BD]
