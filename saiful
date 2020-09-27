@@ -38,7 +38,16 @@ http://103.205.133.44:1935/live/Gtv/chunklist_w1055246319.m3u8
 http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1 group-title="BANGLA ENT.,GTV 10
 http://103.102.136.106:8080/cmcltv/gtv.m3u8
+#EXTINF:-1 group-title="Sports", Star r Sports
+http://bdvisioniptv.ddns.net:25461/live/rahman41/0302/661.m3u8 
+#EXTINF:-1 group-title="BANGLA ENT.,GTV 11
+http://103.102.27.172:8080/hls/stream.m3u8 
 
+#EXTINF:-1 group-title="BANGLA ENT., TEN 2
+http://103.102.27.172:8080/hls/stream2.m3u8 
+
+#EXTINF:-1 group-title="BANGLA ENT., Star r 2
+http://103.102.27.172:8080/hls/stream3.m3u8 
 
 
 #EXTINF:-1 group-title="ZEE",ZEE TV HD
